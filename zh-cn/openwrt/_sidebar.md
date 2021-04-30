@@ -1,1 +1,1 @@
-* [前言](/zh-cn/openwrt/)
+* [前言](/zh-cn/openwrt/ "Openwrt开发从入门到精通 前言")
