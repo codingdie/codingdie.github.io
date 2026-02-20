@@ -2,5 +2,6 @@
 * [Openwrt从入门到精通](/zh-cn/openwrt/)
 * [IM系统设计随笔](/zh-cn/im/)
 * [P2P通用对等网络](/zh-cn/p2p/)
+* [AI技术探索](/zh-cn/ai/)
 * [杂谈随笔](/zh-cn/blog/)
 * [天涯神贴合集](/zh-cn/tianya/)
